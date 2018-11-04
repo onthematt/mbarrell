@@ -14,6 +14,7 @@ onthematt[11] = "<h1>You're welcome.</h1>I'd never thought about a social media 
 onthematt[12] = "<h1>Collective responsibility.</h1>Some say the NHS needs more money to support mental health.<br><br>After all, money will fix the problem, right?<br><br>I'd rather the NHS didn't get involved and make everything colour-coded, slow and expensive.<br><br>Let's try being kinder to each other and save the NHS a job.";
 onthematt[13] = "<h1>National pride.</h1>It's great to be proud in your country but don't be so proud you make the mistake of thinking you're better than everyone.<br><br>#brexit"
 onthematt[14] = "<h1>Don't go away mad.</h1>Just go away.<br><br>#movingon"
+onthematt[15] = "<h1>99 Problems</h1>If you stopped with your imaginary problems and starting finding solutions you soon find your problems are no longer problems anymore.<br><br>#chillout"
 
 function onTheMatt() {
 	var randomPost = Math.floor(Math.random()*(onthematt.length));
