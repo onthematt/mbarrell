@@ -12,7 +12,7 @@ onthematt[9] = "<h1>You don't know.</h1>You don't know how much you don't know..
 onthematt[10] = "<h1>Bathroom struggles.</h1>Ten urinals, five sinks, one hand dryer.<br><br>What the fuck.<br><br>#weeandwait";
 onthematt[11] = "<h1>You're welcome.</h1>There's a wonderful irony in a man who has sent postcards all his life so strongly resisting the connectedness of social media.<br><br>It's good to be connected.<br><br>#keepintouch";
 onthematt[12] = "<h1>Collective responsibility.</h1>Some say the NHS needs more money to support mental health.<br><br>After all, money will fix the problem, right?<br><br>I'd rather the NHS didn't get involved and make everything colour-coded, slow and expensive.<br><br>Let's try being kinder to each other and save the NHS a job.";
-onthematt[13] = "<h1>National pride.</h1>It's great to be proud of your country but don't be so proud that you think you're better than anyone else.<br><br>#brexit"
+onthematt[13] = "<h1>National pride.</h1>It's great to be proud of your country but don't be so proud you think you're better than anyone else.<br><br>#brexit"
 onthematt[14] = "<h1>Don't go away mad.</h1>Just go away.<br><br>#movingon"
 onthematt[15] = "<h1>99 Problems.</h1>If you stopped with your imaginary problems and starting finding solutions you soon find your problems aren't problems anymore.<br><br>#chillout"
 
