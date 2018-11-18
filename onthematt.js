@@ -15,6 +15,7 @@ onthematt[12] = "<h1>Collective responsibility.</h1>Some say the NHS needs more 
 onthematt[13] = "<h1>National pride.</h1>It's great to be proud of your country but don't be so proud you think you're better than anyone else.<br><br>#brexit"
 onthematt[14] = "<h1>Don't go away mad.</h1>Just go away.<br><br>#movingon"
 onthematt[15] = "<h1>99 Problems.</h1>If you stopped with your imaginary problems and starting finding solutions you soon find your problems aren't problems anymore.<br><br>#chillout"
+onthematt[16] = "<h2>Speed, quality, price.</h2>Pick two.<br><br>#wantitall"
 
 function onTheMatt() {
 	var randomPost = Math.floor(Math.random()*(onthematt.length));
