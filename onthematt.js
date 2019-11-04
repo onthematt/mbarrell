@@ -18,6 +18,7 @@ onthematt[15] = "<h1>99 problems.</h1>If you stopped with your imaginary problem
 onthematt[16] = "<h2>Speed, quality, price.</h2>Pick two.<br><br>#compromises<br><br>"
 onthematt[17] = "<h2>What's my last price?</h2>The last price is the best price and the best price is the last price. <br><br>The <i>best offer</i> is the <b>last price.</b> <br><br>Make an offer, dumbie. <br><br>#negotiation #buttermeup<br><br>"
 onthematt[18] = "<h2>Risk.</h2>The people who talk boldly about risk are those for whom it has already paid off.<br><br>#stickortwist<br><br>"
+onthematt[19] = "<h2>Personality</h2>An amalgamation of experience<br><br>#whoareyou?"
 
 function onTheMatt() {
 	var randomPost = Math.floor(Math.random()*(onthematt.length));
