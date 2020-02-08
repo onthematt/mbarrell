@@ -11,6 +11,32 @@
 
 <body>
 
+<!-- Load Facebook SDK for JavaScript -->
+      <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v6.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your customer chat code -->
+      <div class="fb-customerchat"
+        attribution=setup_tool
+        page_id="109494367285362"
+  theme_color="#0084ff"
+  logged_in_greeting="Hi! How can I help you?"
+  logged_out_greeting="Hi! How can I help you?">
+      </div>
 
   <section>
     <p>Matt Barrell. <br><br>Sales & Lettings in <a href="http://readingestateagent.com" target="_blank">Reading, UK</a>. <br><br>I like to play instruments and make <a href="http://leaderofficial.co.uk" target="_blank">music</a>! You can find me on <a href="https://instagram.com/onthematt" target="_blank">Instagram</a>, <a href="https://linkedin.com/in/onthematt" target="_blank">LinkedIn</a> and <a href="https://twitter.com/onthematt" target="_blank">Twitter</a> too. <br><br>Sometimes I write stuff down and post it <a href=blog.html>here</a>. <br><br>Don't be shy - <a href="mailto:onthematt@hotmail.co.uk">say hello</a>! <br>
